@@ -1,0 +1,2 @@
+(this.webpackJsonpbucketlist=this.webpackJsonpbucketlist||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var c=n(1),s=n.n(c),r=n(3),i=n.n(r),a=n(0);var o=function(){return Object(a.jsx)("div",{children:'"By any means!"'})};i.a.render(Object(a.jsx)(s.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.7a441e77.chunk.js.map
